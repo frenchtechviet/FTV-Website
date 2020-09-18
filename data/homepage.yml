@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Xin Chao! <br> We are la <br> French Tech Vietnam"
 
 # about
 about:
@@ -14,34 +14,34 @@ about:
 # skill
 skill:
   enable : true
-  title : "Skills"
+  title : "What are we made of?"
   item:
-    - title : "Web Design"
+    - title : "Entrepreneurs"
       progress : "90%"
       color : "#fdb157"
       
-    - title : "Logo Design"
+    - title : "Startupers"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "Tech Enthusiasts"
       progress : "80%"
       color : "#bdecf6"
-      
-    - title : "Web App"
+
+    - title : "Networkers"
       progress : "70%"
       color : "#ffbcaa"
 
 # experience
 experience:
   enable : true
-  title : "Experience"
+  title : "Latest Events"
   item: 
     - logo : "images/experience/icon-1.png"
       title : "Junior UX Designer"
       company : "WEBEX"
       duration : "Jan 2007 - Feb 2009"
-      
+
     - logo : "images/experience/icon-2.png"
       title : "UX & UI Designer"
       company : "AUGMEDIX"
@@ -54,7 +54,7 @@ experience:
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Education"
   item:
     - title : "Marters in UX Design"
@@ -76,33 +76,33 @@ education:
 # service
 service:
   enable : true
-  title : "Services"
+  title : "Activities"
   item:
-    - title : "UI Design"
+    - title : "Events"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "We organize events that gather and foster the community."
       highlighted : false
 
-    - title : "UX Design"
+    - title : "Community"
       icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "We foster the community."
       highlighted : true
 
-    - title : "Interaction Design"
+    - title : "Startups Support"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "We help startups get off the ground."
       highlighted : false
 
 # portfolio
 portfolio:
-  enable : true
-  title : "Portfolio"
+  enable : false
+  title : "Startups"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
@@ -124,35 +124,32 @@ testimonial:
 clients_logo_slider:
   enable : true
   item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
+    - logo : "images/sponsors/2020/bocasay.png"
+      URL : "https://bocasay.com"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
+    - logo : "images/sponsors/2020/cce.png"
+      URL : "https://cnccef.org"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
+    - logo : "images/sponsors/2020/neotiq.png"
+      URL : "https://neotiq.com"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
+    - logo : "images/sponsors/2020/cel.png"
+      URL : "https://cel-consulting.com"
       
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
+    - logo : "images/sponsors/2020/komit.png"
+      URL : "https://komit-consulting.com"
       
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
+    - logo : "images/sponsors/2020/gameloft.png"
+      URL : "https://gameloft-sea.com"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
+    - logo : "images/sponsors/2020/schoolab.png"
+      URL : "https://vietnam.theschoolab.com"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
+    - logo : "images/sponsors/2020/ekino.png"
+      URL : "https://ekino.vn"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
+    - logo : "images/sponsors/2020/dirox.png"
+      URL : "https://dirox.net"
 
 # blog
 blog:
