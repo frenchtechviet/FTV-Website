@@ -1,41 +1,81 @@
 # work process
 work_process:
   enable : true
-  title : "Work Process"
+  title : "What we do"
   item:
-  - title : "Research and Plan"
+  - title : "Start-ups"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Design and Develop"
-    icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Deliver"
-    icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Project qualification, Incubation / Acceleration, Mentoring, Workshops, Entrepreneurs gathering, Connection with VC's."
 
+  - title : "Event"
+    icon : "images/icons/design.png"
+    content : "Afterworks (ft connect), Speaker panels (ft talks), Working groups, Entrepreneurs lunch’s, Innovation days, Meeting with institutions."
+
+  - title : "EID"
+    icon : "images/icons/print.png"
+    content : "Special program for start-ups, Pitch sessions, Project review, Mentoring / Coaching, Fund raising preparation, Connection with VC's."
+
+  - title : "Partnerships"
+    icon : "images/icons/print.png"
+    content : "Incorporation, Incubation, Tech Development, Investmenets, Recruitment, Local initiatives."
+
+  - title : "International"
+    icon : "images/icons/print.png"
+    content : "Worldwide Network (86 hubs), Apac Network (10 Hubs), French Tech Visa, French Tech Tremplin, Bourse French Tech, Scale-up tour."
+
+  - title : "Communication"
+    icon : "images/icons/print.png"
+    content : "Facebook page&group, Linkedin page&group, Twitter, Whatsapp, Slack... and the contact form!"
 
 # team
 team:
   enable: true
-  title : "My Team"
+  title : "The Pilot Team"
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
-      
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
-      
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
+    - title : "Julien Brun"
+      image : "images/team/julien.jpeg"
+      designation : "Co-lead"
+
+    - title : "Vincent Capa"
+      image : "images/team/vincent.jpg"
+      designation : "Co-lead"
+
+    - title : "Loup Rouan"
+      image : "images/team/loup-rouan.png"
+      designation : "Treasurer"
+
+    - title : "Nicolas Embleton"
+      image : "images/team/nicolas.jpg"
+      designation : "Board member"
+
+    - title : "Aymeric Matencio"
+      image : "images/team/aymeric.jpg"
+      designation : "Board member"
+
+    - title : "Celine Zapolsky"
+      image : "images/team/celine.jpg"
+      designation : "Board member"
+
+    - title : "Stephane Lavaud"
+      image : "images/team/stephane.jpg"
+      designation : "Board member"
+
+    - title : "Alexandre Sompheng"
+      image : "images/team/alexandre.jpg"
+      designation : "Board member"
+
+    - title : "Tanguy Le Barber"
+      image : "images/team/tanguy.jpg"
+      designation : "Community lead"
+
+    - title : "Quentin Frecon"
+      image : "images/team/quentin.jpg"
+      designation : "Community lead"
+
 
 
 # client logo slider
 clients_logo_slider:
   enable : true
-  title : "My Clients"
+  title : "Our sponsors"
   # clients logo comes from 'data/homepage.yml' file
