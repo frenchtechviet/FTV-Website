@@ -1,46 +1,39 @@
 ---
-title: "Amazon increase income 1.5 Million"
-date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-5.jpg"
-description: "This is meta description."
+title: "The Current Stage of Techno App in Vietnam's Healthcare Industry"
+date: 2020-07-14T12:14:34+06:00
+image: "images/blog/post-1.jpg"
+description: "The Current Stage of Techno App in Vietnam's Healthcare Industry"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Dear FTV members,
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+On Tuesday 07th of July 2020, we welcomed our first quarterly Tech Talk at Sofitel with overwhelming interest and over-registration to the last minute!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+We are thrilled to have a full house of both Tech ethusiasts and Healthcare professionals who join our speakers and panelists on the topic: HealthTech, Current Stage of Technology Application in Vietnam’s Healthcare Industry.
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+This blend of Tech start-ups and Healthcare players, both from the side of speakers, panelists and guests, allowed a unique sharing session with insightful questions and answers.  We are also happy to see that our attendees made meaningful industry contacts through the networking session.  That made all our organization effort worthwhile!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+{{< youtube id="FGJ9xNkvuGc" >}}
+
+As per request by many guests, please contact us to get the Conference Pack
+
+GET THE CONFERENCE PACK
+
+Conference Pack details (4 presentations + 1 conference notes)
+
+1 - Dr Chi Bao Bui, founder of DNA medical, talked about applied genetics
+2 - James Miles Lambert, CEO of HealthGroup, whose topic was medical information platform
+3 - Robin Durivault, Head of Engineering of Vulcan Augmetics, talked about the design philosophy of Vulcan’s product
+4 - Marion Gueroult, Project Manager at Servier, talked about the use of Big Data to improve patient’s support
+5 - Conference Notes by Julien Brun, Co-President of La French Tech Vietnam HDH
+
+CAROUSSEL
+
+A big thank you to all the attendees for making this event of La French Tech Vietnam a success!
+
+For those who missed it, do not worry – we are working on the next TechTalk which will be communicated to you soon.
+
+Cheers and see you very soon,
+
+FTV Team
