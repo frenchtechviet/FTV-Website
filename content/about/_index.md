@@ -1,8 +1,8 @@
 ---
 title: "About"
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+description: "We are la French Tech Vietnam"
+author_image: "images/favicon_large.png"
+author_signature: ""
 draft: false
 ---
 XIN CHAO, WE ARE LA FRENCH TECH VIETNAM.
