@@ -151,8 +151,8 @@ clients_logo_slider:
     - logo : "images/sponsors/2020/dirox.png"
       URL : "https://dirox.net"
 
-# blog
+# news
 blog:
   enable : true
   title : "Blogs"
-  # blog post comes from "content/blog" folder
+  # news post comes from "content/news" folder
