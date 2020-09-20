@@ -52,7 +52,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = ""
+logo = "/images/favicon_medium_small.png"
 # theme color
 #theme_color = "#41228e"
 theme_color = "#0D0040"
@@ -67,7 +67,7 @@ description = "This is meta description"
 # google analytics
 google_analytics_id = "G-6K0H46Y40V" # Your ID
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 French Tech Vietnam HDH"
 
 # preloader
 [params.preloader]
