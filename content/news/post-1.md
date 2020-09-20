@@ -3,6 +3,7 @@ title: "The Current Stage of Techno App in Vietnam's Healthcare Industry"
 date: 2020-07-14T12:14:34+06:00
 image: "images/blog/post-1.jpg"
 description: "The Current Stage of Techno App in Vietnam's Healthcare Industry"
+author: Tanguy Le Barber
 draft: false
 ---
 
