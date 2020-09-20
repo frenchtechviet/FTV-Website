@@ -52,7 +52,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = "/images/favicon_medium_small.png"
+logo = "/uploads/logo/logo_medium_small.png"
 # theme color
 #theme_color = "#41228e"
 theme_color = "#0D0040"

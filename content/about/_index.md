@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "We are la French Tech Vietnam"
-author_image: "images/favicon_large.png"
+author_image: "uploads/logo_large.png"
 author_signature: ""
 draft: false
 ---
