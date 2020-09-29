@@ -33,43 +33,43 @@ team:
   title : "The Pilot Team"
   team_member:
     - title : "Julien Brun"
-      image : "images/team/julien.jpeg"
+      image : "images/team/Julien.jpeg"
       designation : "Co-lead"
 
     - title : "Vincent Capa"
-      image : "images/team/vincent.jpg"
+      image : "images/team/Vincent.jpg"
       designation : "Co-lead"
 
     - title : "Loup Rouan"
-      image : "images/team/loup-rouan.png"
+      image : "images/team/Loup-Rouan.png"
       designation : "Treasurer"
 
     - title : "Nicolas Embleton"
-      image : "images/team/nicolas.jpg"
+      image : "images/team/Nicolas.jpg"
       designation : "Board member"
 
     - title : "Aymeric Matencio"
-      image : "images/team/aymeric.jpg"
+      image : "images/team/Aymeric.jpg"
       designation : "Board member"
 
     - title : "Celine Zapolsky"
-      image : "images/team/celine.jpg"
+      image : "images/team/Celine.jpg"
       designation : "Board member"
 
     - title : "Stephane Lavaud"
-      image : "images/team/stephane.jpg"
+      image : "images/team/Stephane.jpg"
       designation : "Board member"
 
     - title : "Alexandre Sompheng"
-      image : "images/team/alexandre.jpg"
+      image : "images/team/Alexandre.jpg"
       designation : "Board member"
 
     - title : "Tanguy Le Barber"
-      image : "images/team/tanguy.jpg"
+      image : "images/team/Tanguy.jpg"
       designation : "Community lead"
 
     - title : "Quentin Frecon"
-      image : "images/team/quentin.jpg"
+      image : "images/team/Quentin.jpg"
       designation : "Community lead"
 
 
