@@ -44,34 +44,13 @@ team:
       image : "images/team/Loup-Rouan.png"
       designation : "Treasurer"
 
-    - title : "Nicolas Embleton"
-      image : "images/team/Nicolas.jpg"
-      designation : "Board member"
-
-    - title : "Aymeric Matencio"
-      image : "images/team/Aymeric.jpg"
-      designation : "Board member"
-
     - title : "Celine Zapolsky"
       image : "images/team/Celine.jpg"
       designation : "Board member"
 
-    - title : "Stephane Lavaud"
-      image : "images/team/Stephane.jpg"
-      designation : "Board member"
-
-    - title : "Alexandre Sompheng"
-      image : "images/team/Alexandre.jpg"
-      designation : "Board member"
-
-    - title : "Tanguy Le Barber"
-      image : "images/team/Tanguy.jpg"
-      designation : "Community lead"
-
     - title : "Quentin Frecon"
       image : "images/team/Quentin.jpg"
       designation : "Community lead"
-
 
 
 # client logo slider

@@ -39,23 +39,23 @@ experience:
   item:
     - logo : "images/experience/icon-1.png"
       title : "Millions Euros of Funds raised"
-      company : "4000+"
-      duration : "By the FT start-ups in 2020"
+      company : "By the FT start-ups in 2020"
+      duration : "4000+"
 
     - logo : "images/experience/icon-2.png"
       title : "French Tech Communities"
-      company : "86"
-      duration : "Worlwide"
+      company : "Worlwide"
+      duration : "86"
 
     - logo : "images/experience/icon-1.png"
       title : "Entrepreneurs & Tech Enthusiasts"
-      company : "300+"
-      duration : "In La French Tech Vietnam"
+      company : "In La French Tech Vietnam"
+      duration : "300+"
 
     - logo : "images/experience/icon-2.png"
       title : "People following us"
-      company : "5500+"
-      duration : "On our social media!"
+      company : "On our social media!"
+      duration : "5500+"
 
 # education
 education:
