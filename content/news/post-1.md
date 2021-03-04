@@ -29,7 +29,7 @@ Conference Pack details (4 presentations + 1 conference notes)
 4 - Marion Gueroult, Project Manager at Servier, talked about the use of Big Data to improve patient’s support
 5 - Conference Notes by Julien Brun, Co-President of La French Tech Vietnam HDH
 
-CAROUSSEL
+IMAGES
 
 A big thank you to all the attendees for making this event of La French Tech Vietnam a success!
 

@@ -38,15 +38,20 @@ URL = "news"
 name = "News"
 weight = 2
 
-#[[menu.main]]
-#URL = "portfolio"
-#name = "Portfolio"
-#weight = 3
+[[menu.main]]
+URL = "https://job.ftnext40.com/jobs"
+name = "Jobboard"
+weight = 3
+
+[[menu.main]]
+URL = "https://job.ftnext40.com/jobs/new"
+name = "Post a Job"
+weight = 4
 
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 4
+weight = 5
 
 
 # default parameters
